@@ -77,12 +77,12 @@ Console.Write(func(num1, num2));
 
 //Задача 10: Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
 
-int treenumber(int num)
+int enterNumber(int num)
 {
     return (num % 100) / 10;
 }
 
-bool correctednum(int num)
+bool corrnum(int num)
 {
     if (num / 100 != 0 && num / 1000 == 0)
     return true;
@@ -92,6 +92,6 @@ bool correctednum(int num)
 
 Console.Write(" Введите Трёхзначное число: ");
 int number = Convert.ToInt32(Console.ReadLine());
-if(correctednum(number)) 
-Console.WriteLine($"Средняя цифра числа {treenumber} ");
+if(corrnum(number)) Console.WriteLine($"Второй символ числа {enterNumber(number)} ");
 else Console.Write("ошибка ввода");
+
