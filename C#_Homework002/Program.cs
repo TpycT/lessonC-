@@ -76,7 +76,7 @@ Console.Write(func(num1, num2));
 */
 
 //Задача 10: Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
-
+/*
 int enterNumber(int num)
 {
     return (num % 100) / 10;
@@ -94,4 +94,34 @@ Console.Write(" Введите Трёхзначное число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 if(corrnum(number)) Console.WriteLine($"Второй символ числа {enterNumber(number)} ");
 else Console.Write("ошибка ввода");
+*/
+// Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
+/*
+int FindThir( int num)
+{
+    while(num >= 1000)
+    {
+        num = num / 10;
+    }
 
+    return num % 10;
+}
+
+Console.Write("Введите число: ");
+int number = Convert.ToInt32(Console.ReadLine());
+if (number / 100 != 0) Console.WriteLine($"Третья цифра вашего числа это {FindThir(number)}");
+else Console.WriteLine ("В вашем числе нет Третьего знака");
+*/
+
+// Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
+
+bool Happy(int num)
+{
+    if (num ==6 || num ==7) return true;
+    else return false;
+}
+Console.Write ("Введите номер недели: ");
+int number = Convert.ToInt32(Console.ReadLine());
+if(Happy(number)) Console.WriteLine("Happy!!! NO WORK!!! ");
+else if (number >= 1 && number <= 5) Console.WriteLine("WORK!!! GO HARD WORK!!! NIGGA!");
+else Console.Write("Тссс.... ты пьяный введи число!");
