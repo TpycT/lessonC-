@@ -1,0 +1,15 @@
+C:\Users\s1ner\OneDrive\Рабочий стол\C#\exemples016\obj\Debug\net6.0\exemples016.csproj.AssemblyReference.cache
+C:\Users\s1ner\OneDrive\Рабочий стол\C#\exemples016\obj\Debug\net6.0\exemples016.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1ner\OneDrive\Рабочий стол\C#\exemples016\obj\Debug\net6.0\exemples016.AssemblyInfoInputs.cache
+C:\Users\s1ner\OneDrive\Рабочий стол\C#\exemples016\obj\Debug\net6.0\exemples016.AssemblyInfo.cs
+C:\Users\s1ner\OneDrive\Рабочий стол\C#\exemples016\obj\Debug\net6.0\exemples016.csproj.CoreCompileInputs.cache
+C:\Users\s1ner\OneDrive\Рабочий стол\C#\exemples016\bin\Debug\net6.0\exemples016.exe
+C:\Users\s1ner\OneDrive\Рабочий стол\C#\exemples016\bin\Debug\net6.0\exemples016.deps.json
+C:\Users\s1ner\OneDrive\Рабочий стол\C#\exemples016\bin\Debug\net6.0\exemples016.runtimeconfig.json
+C:\Users\s1ner\OneDrive\Рабочий стол\C#\exemples016\bin\Debug\net6.0\exemples016.dll
+C:\Users\s1ner\OneDrive\Рабочий стол\C#\exemples016\bin\Debug\net6.0\exemples016.pdb
+C:\Users\s1ner\OneDrive\Рабочий стол\C#\exemples016\obj\Debug\net6.0\exemples016.dll
+C:\Users\s1ner\OneDrive\Рабочий стол\C#\exemples016\obj\Debug\net6.0\refint\exemples016.dll
+C:\Users\s1ner\OneDrive\Рабочий стол\C#\exemples016\obj\Debug\net6.0\exemples016.pdb
+C:\Users\s1ner\OneDrive\Рабочий стол\C#\exemples016\obj\Debug\net6.0\exemples016.genruntimeconfig.cache
+C:\Users\s1ner\OneDrive\Рабочий стол\C#\exemples016\obj\Debug\net6.0\ref\exemples016.dll
